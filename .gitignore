@@ -1,4 +1,1 @@
-logs/
-*.log
-bin/
-bin2/*
+.idea/
